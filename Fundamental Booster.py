@@ -11,5 +11,5 @@ print(f"Favourite_Number:{favourite_number},(type:{type(favourite_number)},Memor
 import datetime
 year=datetime.datetime.now().year
 Birth_date=year-age
-print(f"Your birth year is approximately:{Your birth year is ")
+print(f"Your birth year is approximately:{Your birth year is approximately}")
 print("Thank you for using the Personal Dta Collector. Goodbye!")
