@@ -89,3 +89,4 @@ This project demonstrates:
 
 ## Author
 Created as a beginner Python practice project.
+video link: https://us05web.zoom.us/clips/share/SJed2IG9SgO8b1Rw3xVqSw
